@@ -1,12 +1,8 @@
-
-**suvendupanda21/suvendupanda21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Suvendu panda</h1>
 <h3 align="center">Full stack web developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvendupanda21" alt="suvendupanda21" /></a> </p>
+<img src="background.jpeg">
 
 - 👨‍💻 All of my projects are available at [https://suvendupanda.netlify.app/](https://suvendupanda.netlify.app/)
 
