@@ -2,7 +2,7 @@
 <h3 align="center">Full stack web developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvendupanda21" alt="suvendupanda21" /></a> </p>
-<img src="background.jpeg">
+<img src="C:\Users\shuvendu\OneDrive\Pictures\Screenshots\background.jpg">
 
 - 👨‍💻 All of my projects are available at [https://suvendupanda.netlify.app/](https://suvendupanda.netlify.app/)
 
